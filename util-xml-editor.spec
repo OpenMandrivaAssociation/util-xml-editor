@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/util/tags/util-xml-editor-0.0.6
 # zip -9r util-xml-editor-src-0.0.6.zip util-xml-editor-0.0.6
 Source0:        http://repository.freecompany.org/org/freecompany/util/zips/util-xml-editor-src-%{version}.zip
